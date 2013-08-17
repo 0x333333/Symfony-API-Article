@@ -2,6 +2,6 @@
 
 -------------
 
-A php api for collecting articles from internet, including a simple spider.
+An api for collecting articles from internet, including a simple spider.
 
-More detail informations are coming soon.
+More detailed informations are coming soon.
