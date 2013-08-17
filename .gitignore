@@ -1,1 +1,5 @@
 vendor/
+app/cache/dev/
+app/cache/prod/
+app/logs/dev.log
+app/logs/prod.log
