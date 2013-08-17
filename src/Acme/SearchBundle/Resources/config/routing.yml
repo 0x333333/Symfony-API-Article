@@ -1,0 +1,5 @@
+acme_search_homepage:
+    pattern:  /search/{id}
+    defaults: { _controller: AcmeSearchBundle:Default:get, _format: json }
+    requirements:
+        _method: GET
